@@ -826,7 +826,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1> Lokesh love Divya — Since 2016
+            <h1> 
+Lokesh love Divya — Since 2016
 It’s been 9 beautiful years of love, laughter and memories
 To celebrate this incredible journey were giving you a 100% OFF treat </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 100% off selected items</p>
